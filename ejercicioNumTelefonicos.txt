@@ -15,4 +15,4 @@ Type "copyright", "credits" or "license()" for more information.
 {'maria': 123, 'marco': 786, 'zoila': 459, ' juan': 454}
 >>> list(tel.keys())
 ['maria', 'marco', 'zoila', ' juan']
->>> 
+>>> a=6
